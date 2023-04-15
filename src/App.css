@@ -1,0 +1,23 @@
+.App {
+  background-color: #05292e;
+  min-height: 100vh;
+}
+.app__title {
+  margin-bottom: 2em;
+}
+.app__form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2em;
+}
+.app__input {
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+.app__btn {
+  border-radius: 0 0.5rem 0.5rem 0;
+  padding: 0 1rem;
+  background-color: rgb(125, 199, 14);
+  color: white;
+  cursor: pointer;
+}

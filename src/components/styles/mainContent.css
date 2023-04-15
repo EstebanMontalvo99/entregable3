@@ -1,0 +1,26 @@
+.resident-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3em;
+  justify-content: center;
+  padding-bottom: 2em;
+}
+.page__btn {
+  position: relative;
+  padding-bottom: 3em;
+}
+.next__btn {
+  position: absolute;
+  right: 0;
+  margin-right: 3em;
+  padding: 0.5em;
+  background-color: rgb(129, 199, 14);
+  border-radius: 2em;
+}
+.prev__btn {
+  position: absolute;
+  margin-left: 3em;
+  padding: 0.5em;
+  background-color: rgb(129, 199, 14);
+  border-radius: 2em;
+}
