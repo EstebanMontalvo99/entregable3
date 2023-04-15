@@ -16,6 +16,7 @@
   padding: 0.5em;
   background-color: rgb(129, 199, 14);
   border-radius: 2em;
+  cursor: pointer;
 }
 .prev__btn {
   position: absolute;
@@ -23,4 +24,5 @@
   padding: 0.5em;
   background-color: rgb(129, 199, 14);
   border-radius: 2em;
+  cursor: pointer;
 }
